@@ -34,6 +34,8 @@ This repository contains a series of excecises within a Jupyter notebook designe
 
 ## **Getting Started**
 
+You can either use this notebook within [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/imperonas/XAI-Unsupervised-Learning-Tutorial/HEAD?labpath=excercise.ipynb) or follow the instructions bewlow to set it up on your local machine.
+
 ### **Requirements**
 - Python 3.x
 - Required Python packages from `requirements.txt`  as well as any requirements for jupyter servers
@@ -41,8 +43,8 @@ This repository contains a series of excecises within a Jupyter notebook designe
 ### **Setup**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/explainable-ai-unsupervised-learning.git
-   cd explainable-ai-unsupervised-learning
+   git clone https://github.com/imperonas/XAI-Unsupervised-Learning-Tutorial.git
+   cd XAI-Unsupervised-Learning-Tutorial
    ```
 2. Install the dependencies:
    ```bash
