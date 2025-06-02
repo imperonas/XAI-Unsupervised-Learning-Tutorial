@@ -9,7 +9,7 @@
 
 ---
 
-This repository contains a series of Jupyter notebook exercises designed to teach key concepts in Explainable AI (XAI) for unsupervised learning. The tasks focus on manually inspecting data, calculating entropy, and understanding feature importance through local and global FIS (Fuzzy Information Score) metrics.
+This repository contains a series of excecises within a Jupyter notebook designed to teach key concepts in eXplainable AI (XAI) for unsupervised learning. The tasks focus on manually inspecting data, calculating entropy, and understanding feature importance through local and global FIS (Feature Information Score) metrics.
 
 ## **Exercises Overview**
 
